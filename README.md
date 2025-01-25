@@ -1,4 +1,4 @@
-This is a web based learning management systems created from follwing a tutorial from [CodeWithAntonio](https://www.codewithantonio.com)
+This is a web based learning management systems created from follwing a tutorial from [CodeWithAntonio](https://www.codewithantonio.com/projects/lms-platform)
 
 ## Getting Started
 
